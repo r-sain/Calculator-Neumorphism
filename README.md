@@ -1,4 +1,5 @@
 # React + Vite
+# A minimal and Clean calculator which is made entirely using string functions amd UI is made on a mordern neumorphism design
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
